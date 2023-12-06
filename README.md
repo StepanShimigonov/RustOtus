@@ -1,2 +1,4 @@
-# RustOtus
-Rust course by Otus
+# Rust course by Otus
+
+## Homeworks:
+- [HW_1](./hw1)
