@@ -32,5 +32,3 @@ impl _SmartThermometer {
         todo!()
     }
 }
-
-fn main() {}
